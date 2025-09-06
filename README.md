@@ -6,6 +6,6 @@
 </a>
 <h1></h1>
 <center><div>
-CTFtime: https://ctftime.org/team/380405
-Credly: https://www.credly.com/users/abhiraam-kandula/badges#credly
+<p>CTFtime: https://ctftime.org/team/380405 </p>
+<p>Credly: https://www.credly.com/users/abhiraam-kandula/badges#credly</p>
 </div></center>
