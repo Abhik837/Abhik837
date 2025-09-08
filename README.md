@@ -6,6 +6,7 @@
 </a>
 <h1></h1>
 <center><div>
-<p>CTFtime: https://ctftime.org/team/380405 </p>
+<p>Contact: abhiraam.kandula@gmail.com</p>
+<p>CTFtime: https://ctftime.org/team/380405</p>
 <p>Credly: https://www.credly.com/users/abhiraam-kandula/badges#credly</p>
 </div></center>
